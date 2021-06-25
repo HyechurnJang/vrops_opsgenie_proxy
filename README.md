@@ -19,4 +19,4 @@ vRealize Operations OpsGenie Outbound Proxy
 
 **Execution**
 
-	$ python server.py
+	$ python3 server.py
